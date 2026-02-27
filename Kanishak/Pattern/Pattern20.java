@@ -1,3 +1,12 @@
+// Pattern 20: Hollow Square Pattern
+
+
+// *****
+// *   *
+// *   *
+// *   *
+// *****
+
 package Pattern;
 
 public class Pattern20 {
