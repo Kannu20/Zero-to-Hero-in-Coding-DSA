@@ -1,5 +1,8 @@
 // Maximal Rectangle
 
+// Input: matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
+// Output: 6
+// Explanation: The maximal rectangle is shown in the above picture.
 package day12;
 
 

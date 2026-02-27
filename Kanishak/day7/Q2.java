@@ -1,5 +1,7 @@
 // Find the Duplicate Number
 
+// Input: nums = [1,3,4,2,2]
+// Output: 2
 package day7;
 
 class Solution {

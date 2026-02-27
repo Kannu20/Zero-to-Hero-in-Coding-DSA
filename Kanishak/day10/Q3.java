@@ -1,6 +1,9 @@
 // Intersection of Two Arrays
 
-// a
+// Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+// Output: [9,4]
+// Explanation: [4,9] is also accepted.
+ 
 
 package day10;
 

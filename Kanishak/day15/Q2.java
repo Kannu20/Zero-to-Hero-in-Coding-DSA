@@ -1,5 +1,8 @@
 // Q2. Word Break
 
+// Input: s = "leetcode", wordDict = ["leet","code"]
+// Output: true
+// Explanation: Return true because "leetcode" can be segmented as "leet code".
 package day15;
 
 import java.util.*;

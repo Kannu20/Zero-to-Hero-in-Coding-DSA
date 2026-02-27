@@ -1,5 +1,9 @@
 // Q3. Longest Valid Parentheses
 
+// Input: s = "(()"
+// Output: 2
+// Explanation: The longest valid parentheses substring is "()".
+
 package day15;
 
 class Solution {

@@ -1,5 +1,8 @@
 // Sub Array Sum Equals K
 
+// Input: nums = [1,1,1], k = 2
+// Output: 2
+
 import java.util.*;
 
 

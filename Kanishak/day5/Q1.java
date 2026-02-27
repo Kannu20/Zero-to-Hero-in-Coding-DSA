@@ -2,6 +2,8 @@ package day5;
 
 // Majority Element using Boyer-Moore Voting Algorithm
 
+// Input: nums = [3,2,3]
+// Output: 3
 class Solution {
     public int majorityElement(int[] nums) {
         int candidate = 0;

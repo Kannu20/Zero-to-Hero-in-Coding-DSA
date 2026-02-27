@@ -1,5 +1,12 @@
 // Distinct Subsequences
 
+// Input: s = "rabbbit", t = "rabbit"
+// Output: 3
+// Explanation:
+// As shown below, there are 3 ways you can generate "rabbit" from s.
+// rabbbit
+// rabbbit
+// rabbbit
 package day16;
 
 
