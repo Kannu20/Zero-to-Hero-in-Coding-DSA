@@ -1,3 +1,8 @@
+// Write a program to count the number of digits in a given integer N.
+
+
+// Input: N = 12345
+// Output: 5
 package day24;
 
 public class Q1 {

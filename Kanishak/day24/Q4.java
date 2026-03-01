@@ -1,4 +1,7 @@
 // Write a program to find the GCD of two numbers.
+
+// Input: n1 = 48, n2 = 18
+// Output: GCD of 48 and 18 is: 6
 package day24;
 
 public class Q4 {

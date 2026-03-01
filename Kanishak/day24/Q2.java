@@ -1,3 +1,7 @@
+// Write a program to reverse the digits of a given integer N.
+
+// Input: N = 12345
+// Output: 54321
 package day24;
 
 public class Q2 {

@@ -1,5 +1,7 @@
 // Write a program to check if a number is a palindrome or not.
 
+// Input: N = 1221
+// Output: true
 package day24;
 
 
@@ -17,7 +19,7 @@ public class Q3 {
      } // Check if original and reversed are the same
     public static void main(String[] args) {
         Q3 obj = new Q3();
-        int n = 12231; // change value to test
+        int n = 1221; // change value to test
         boolean result = obj.isPalindrome(n);
         System.out.println(n + " is a palindrome: " + result);
     }
