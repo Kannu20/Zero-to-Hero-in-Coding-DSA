@@ -11,6 +11,5 @@ public class Q3 {
 
         // recursive call
         return palindromeCheck(s, i + 1, j - 1);
-
     }
 }
