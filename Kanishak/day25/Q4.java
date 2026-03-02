@@ -1,3 +1,6 @@
+// Calculate the sum of first n natural numbers
+// Input: n = 10
+// Output: Sum of numbers from 1 to 10 is: 55
 package day25;
 
 public class Q4 {
