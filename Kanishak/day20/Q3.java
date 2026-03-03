@@ -1,4 +1,7 @@
 // Fibonacci series using recursion
+
+// input: n = 10
+// output: Fibonacci of 10 is: 55
 package day20;
 
 public class Q3 {

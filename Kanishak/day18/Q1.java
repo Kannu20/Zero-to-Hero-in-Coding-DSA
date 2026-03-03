@@ -1,4 +1,7 @@
 // Number of Palindromic Subsequences
+
+// Input: s = "103"
+// Output: 3
 package day18;
 
 class Solution {

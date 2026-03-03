@@ -1,5 +1,8 @@
 // Decode Ways
 
+// input: s = "226"
+// output: 3
+// Explanation: "226" can be decoded as "BZ" (2 26), "VF" (22 6), or "BBF" (2 2 6).
 package day18;
 
 import java.util.*;
